@@ -1,10 +1,14 @@
 # MCA - Kirsteen Harvey
 ## WEEK 1 TASK
-Theme - *Singer/songwriter* 
+Theme - *Influential Singer/songwriters* 
 
 *"Describe the current manifestations of data relating to your selected theme. Has it already been
 curated somewhere? How is the data presented, described, and analysed?"* 
 
+Descriptive Dataset - 
 
+Notative Dataset - 
+
+Acoustic Dataset- 
 
 

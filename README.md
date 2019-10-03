@@ -4,9 +4,8 @@ Theme - *70's Disco Music*
 
 *Disco music* partially emerged in the late 60's, and very soon became the most iconic music genre of the 1970's. Although it is predominantly affilated with nightlife and dance scenes in the U.S, disco music continues to thrive today, with its timeless tracks abundantly being played and heard all across the globe.    
 
-### Descriptive Dataset - Biogrpahy 
+### Descriptive Dataset -
 
-Biography.com...
 
 ### Notative Dataset - Musicnotes: The online sheetmusic retailer
 
@@ -14,6 +13,6 @@ Musicnotes was founded in 1998, and holds around 300 thousand musical arrangemen
 
 ### Acoustic Dataset- Spotify  
 
-Live performances and recordings recordings 
+Live performances and recordings can be found and heard on multiple platforms. Spotify allows us to listen to the musical works, whether that be studio recorded and mastered albums and songs, or recorded live performaces from events and gigs. 
 
 

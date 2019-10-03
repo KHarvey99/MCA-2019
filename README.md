@@ -13,6 +13,6 @@ Theme - *70's Disco Music*
 
 ### Acoustic Dataset- Spotify  
 
-Live performances and recordings can be found and heard on multiple platforms. Spotify allows us to listen to the musical works, whether that be studio recorded and mastered albums and songs, or recorded live performaces from events and gigs. 
+Live performances and recordings can be found and heard on multiple platforms. [Spotify](https://www.spotify.com/uk/) allows us to listen to the musical works, whether that be studio recorded and mastered albums and songs, or recorded live performaces from events and gigs. 
 
 

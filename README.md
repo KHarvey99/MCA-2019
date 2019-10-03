@@ -10,7 +10,7 @@ Biography.com...
 
 ### Notative Dataset - Musicnotes: The online sheetmusic retailer
 
-Musicnotes...
+Musicnotes was founded in 1998, and holds around 300 thousand musical arrangements. It is one of the biggest online sheetmusic retailers, with scores for all instruments and styles. The website allows you to search for any song by name, genre, or date, as well as having acsess to useful features such as 'transposing' the arragements to your choice of key. There are currently 7 million users of Musicnotes.
 
 ### Acoustic Dataset- Spotify  
 

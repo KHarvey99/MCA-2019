@@ -1,6 +1,6 @@
 # MCA - Kirsteen Harvey
 ## WEEK 1 TASK
-Theme - *The music works of Stevie Wonder* 
+Theme - *Disco music of the 70's* 
 
 *"Describe the current manifestations of data relating to your selected theme. Has it already been
 curated somewhere? How is the data presented, described, and analysed?"* 
@@ -17,4 +17,4 @@ Musicnotes...
 
 Live performances and recordings recordings 
 
-[about.html]
+

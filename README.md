@@ -15,4 +15,9 @@ Theme - *70's Disco Music*
 
 Live performances and recordings can be found and heard on multiple platforms. [Spotify](https://www.spotify.com/uk/) allows us to listen to the musical works, whether that be studio recorded and mastered albums and songs, or recorded live performaces from events and gigs. 
 
+##WEEK 2 TASK
+
+###Notation
+
+Using musescore, I decided to re-create a classic anthem from 1977; 'Night Fever' by the Bee Gee's. I chose to conmplete 12 bars of the score, which included the introduction and first verse of the song. 
 

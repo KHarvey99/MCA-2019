@@ -21,3 +21,8 @@ Live performances and recordings can be found and heard on multiple platforms. [
 
 Using [Musescore](https://musescore.org/eN), I decided to re-create a classic anthem from 1977; 'Night Fever' by the Bee Gee's. I chose to conmplete 12 bars of the score, which included the introduction and first verse of the song. 
 
+## WEEK 3 TASK 
+
+### Encoding notaed music
+
+I converted my museScore file from last week to MEI. Then using [Verovio] (https://www.verovio.org/index.xhtml) I was able to download the MEI file and upload it to GitHub where it can be rendered and viewed.

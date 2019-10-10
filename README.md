@@ -4,8 +4,9 @@ Theme - *70's Disco Music*
 
 *Disco music* partially emerged in the late 60's, and very soon became the most iconic music genre of the 1970's. Although it is predominantly affilated with nightlife and dance scenes in the U.S, disco music continues to thrive today, with its timeless tracks abundantly being played and heard all across the globe.    
 
-### Descriptive Dataset -
+### Descriptive Dataset 
 
+Descriptive data includes detailed information such as the dates the music was released, writers, composers, musicians, lyrics, and reasoning behind the song. This information can be found in numerous places, both online and print. Music retailers such as Apple music and Spotify provide a lot of this information to its users, however specfic sites for the artists and bands may provide a better insight.
 
 ### Notative Dataset - Musicnotes: The online sheetmusic retailer
 
@@ -19,7 +20,7 @@ Live performances and recordings can be found and heard on multiple platforms. [
 
 ### Notation
 
-Using [Musescore](https://musescore.org/eN), I decided to re-create a classic anthem from 1977; 'Night Fever' by the Bee Gee's. I chose to conmplete 12 bars of the score, which included the introduction and first verse of the song. 
+Using [Musescore](https://musescore.org/eN), I decided to re-create a classic anthem from 1977; 'Night Fever' by the Bee Gee's. I chose to complete 12 bars of the score, which included the introduction and first verse of the song. 
 
 ## WEEK 3 TASK 
 

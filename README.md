@@ -25,4 +25,4 @@ Using [Musescore](https://musescore.org/eN), I decided to re-create a classic an
 
 ### Encoding notaed music
 
-I converted my museScore file from last week to MEI. Then using [Verovio] (https://www.verovio.org/index.xhtml) I was able to download the MEI file and upload it to GitHub where it can be rendered and viewed.
+I converted my museScore file from last week to MEI. Then using [Verovio](https://www.verovio.org/index.xhtml) I was able to download the MEI file and upload it to GitHub where it can be rendered and viewed [here](https://kharvey99.github.io/MCA-2019/verovio.html).

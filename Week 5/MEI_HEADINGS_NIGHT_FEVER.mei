@@ -6,8 +6,23 @@
         <fileDesc>
             <titleStmt>
                 <title>Night Fever</title>
+                <composer>The Bee Gees</composer>
+                <date>April 1977</date>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <resp>Kirsteen Harvey</resp>
+                </respStmt>
             </titleStmt>
-            <pubStmt></pubStmt>
+            <pubStmt>
+                <publisher>
+                    <corpName>University of Glasgow Information studies</corpName>
+                </publisher>
+               <address>
+                   <addrLine>
+                       <geogName>Glasgow</geogName>
+                   </addrLine>
+                </address>
+            </pubStmt>
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000000437782769">
             <appInfo xml:id="appinfo-0000001264818885">

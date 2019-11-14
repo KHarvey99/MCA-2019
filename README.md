@@ -1,9 +1,9 @@
 # MCA - Kirsteen Harvey
-## WEEK 1 TASK
-Theme - *70's Disco Music*  
 
 *ALL LAB TASKS AND SUBMISSIONS CAN BE FOUND UNDER THE WEEK THEY WERE ASSIGNED*
 
+### WEEK 1 TASK
+Pick a theme - *70's Disco Music*  
 
 *Disco music* partially emerged in the late 60's, and very soon became the most iconic music genre of the 1970's. Although it is predominantly affilated with nightlife and dance scenes in the U.S, disco music continues to thrive today, with its timeless tracks abundantly being played and heard all across the globe.    
 

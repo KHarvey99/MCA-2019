@@ -2,6 +2,9 @@
 ## WEEK 1 TASK
 Theme - *70's Disco Music*  
 
+*ALL LAB TASKS AND SUBMISSIONS CAN BE FOUND UNDER THE WEEK THEY WERE ASSIGNED*
+
+
 *Disco music* partially emerged in the late 60's, and very soon became the most iconic music genre of the 1970's. Although it is predominantly affilated with nightlife and dance scenes in the U.S, disco music continues to thrive today, with its timeless tracks abundantly being played and heard all across the globe.    
 
 ### Descriptive Dataset 
@@ -27,3 +30,25 @@ Using [Musescore](https://musescore.org/eN), I decided to re-create a classic an
 ### Encoding notated music
 
 I converted my museScore file from last week to MEI. Then using [Verovio](https://www.verovio.org/index.xhtml) I was able to download the MEI file and upload it to GitHub where it can be rendered and viewed [here](https://kharvey99.github.io/MCA-2019/verovio.html).
+
+## WEEK 4 TASK
+
+### Computational analytics of notated music
+
+I generated a JSymbolic of my notated score, selecting feaures I thought were most interesting and relevant to the piece of music. I also created a piano roll and pitch hustogram using music21.
+
+## WEEK 5 TASK
+
+### Standards in Curation
+
+I have included metadata that helps to indentify and describe my encoded document. Placing relevant metadata in my MEI file. I created a schema based on this data. 
+
+## WEEK 7 TASK
+
+### Challenges to music curation
+
+I returned to the metadata I created in week 5, and proceeded to include this metadata in my HTML pages with verovio. 
+
+## WEEK 8 TASK
+
+### Music as sound

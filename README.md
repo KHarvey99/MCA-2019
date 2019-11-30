@@ -52,3 +52,6 @@ I returned to the metadata I created in week 5, and proceeded to include this me
 ## WEEK 8 TASK
 
 ### Music as sound
+
+
+[WEEK 2: Notated Music >>](https://kharvey99.github.io/MCA-2019/Week2.html)

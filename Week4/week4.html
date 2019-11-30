@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+
+ <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">
 <h1> Week 4: Computational analytics of notated music </h1>
 		<p> This week, I generated a JSymbolic of my notated score, selecting features I thought were most interesting and relevant to the piece of music. I also created a piano roll and pitch histogram using music21. These images can be seen below:
   </p>
@@ -15,3 +17,17 @@ layout: default
     <div class="swiper-button-prev"></div>
     <div class="swiper-button-next"></div>
 </div>
+<script src="https://unpkg.com/swiper/js/swiper.js"></script>
+<script>
+  var mySwiper = new Swiper ('.swiper-container', {
+    direction: 'horizontal',
+    loop: true,
+    pagination: {
+      el: '.swiper-pagination',
+    },
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+  })
+</script>

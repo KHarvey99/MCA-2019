@@ -17,41 +17,6 @@ Descriptive data includes detailed information such as the dates the music was r
 
 ### Acoustic Dataset- Spotify  
 
-Live performances and recordings can be found and heard on multiple platforms. [Spotify](https://www.spotify.com/uk/) allows us to listen to the musical works, whether that be studio recorded and mastered albums and songs, or recorded live performaces from events and gigs. 
-
-## WEEK 2 TASK
-
-### Notation
-
-Using [Musescore](https://musescore.org/eN), I decided to re-create a classic anthem from 1977; 'Night Fever' by the Bee Gee's. I chose to complete 12 bars of the score, which included the introduction and first verse of the song. 
-
-## WEEK 3 TASK 
-
-### Encoding notated music
-
-I converted my museScore file from last week to MEI. Then using [Verovio](https://www.verovio.org/index.xhtml) I was able to download the MEI file and upload it to GitHub where it can be rendered and viewed [here](https://kharvey99.github.io/MCA-2019/Week3/verovio.html).
-
-## WEEK 4 TASK
-
-### Computational analytics of notated music
-
-I generated a JSymbolic of my notated score, selecting feaures I thought were most interesting and relevant to the piece of music. I also created a piano roll and pitch hustogram using music21.
-
-## WEEK 5 TASK
-
-### Standards in Curation
-
-I have included metadata that helps to indentify and describe my encoded document. Placing relevant metadata in my MEI file. I created a schema based on this data. 
-
-## WEEK 7 TASK
-
-### Challenges to music curation
-
-I returned to the metadata I created in week 5, and proceeded to include this metadata in my HTML pages with verovio. 
-
-## WEEK 8 TASK
-
-### Music as sound
-
+Live performances and recordings can be found and heard on multiple platforms. [Spotify](https://www.spotify.com/uk/) allows us to listen to the musical works, whether that be studio recorded and mastered albums and songs, or recorded live performaces from events and gigs.
 
 [WEEK 2: Notated Music >>](https://kharvey99.github.io/MCA-2019/Week2/week2.html)

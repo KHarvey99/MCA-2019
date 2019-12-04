@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+ <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">
 <h1>Audio Similarity and Transcription</h1>
 
   <h2> Task 1: Generating a Similarity Matrix </h2>
@@ -17,6 +17,34 @@ In the similarity matrix, tracks 0-3 are within the classical music genre, track
 
 <p>For this task, I have decided to go back and transcribe the file I created back in week 2, Night Fever by the Bee Gees. To do this, I first exported the MuseScore file to a wav file, 
 then imported it into Sonic Visualiser. I then transformed it into a piano roll,  which was then exported as a MIDI file. This MIDI file was then opened using MuseScore again, and I exported the results as an image:</p>
+
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+	<div class="swiper-slide"><img src="https://github.com/kharvey99/MCA-2019/blob/master/Week10/transcription.png?raw=true">/div>
+	<div class="swiper-slide"><img src="https://github.com/kharvey99/MCA-2019/blob/master/Week10/MusescoreScreenshot.png?raw=true"></div>
+        
+  </div>
+    <div class="swiper-pagination"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+</div>
+<script src="https://unpkg.com/swiper/js/swiper.js"></script>
+<script>
+  var mySwiper = new Swiper ('.swiper-container', {
+    direction: 'horizontal',
+    loop: true,
+    pagination: {
+      el: '.swiper-pagination',
+    },
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+  })
+</script>
+
+
+
 
 	<img src="https://github.com/kharvey99/MCA-2019/blob/master/Week10/transcription.png?raw=true">
 

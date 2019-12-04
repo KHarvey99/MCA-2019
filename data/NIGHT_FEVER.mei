@@ -23,7 +23,31 @@
                    </addrLine>
                 </address>
             </pubStmt>
+            
+            </appInfo>
+            <projectDesc>
+                This file acts as an exploration of music curation for the 2019 class at University of Glagsow: Music Curation and Analytics.
+            </projectDesc>
+            <samplingDecl>
+                <p>Encoding contains 12 measures that were the best suited for this project.</p>
+            </samplingDecl>
+        </encodingDesc>
+        <workList>
+            <work>
+                <key>
+                    F major
+                </key>
+                <meter>
+                    4/4
+                </meter>
+                <tempo>
+                    Moderate disco beat
+                </tempo>
+                <creation>
+                    File created on October 29, 2019.
+                </creation>     
         </fileDesc>
+           
         <encodingDesc xml:id="encodingdesc-0000000437782769">
             <appInfo xml:id="appinfo-0000001264818885">
                 <application xml:id="application-0000001160499720" isodate="2019-10-10T13:06:24" version="2.2.0-dev-c01b3a1-dirty">

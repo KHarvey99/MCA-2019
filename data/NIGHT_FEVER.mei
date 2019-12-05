@@ -22,30 +22,7 @@
                        <geogName>Glasgow</geogName>
                    </addrLine>
                 </address>
-            </pubStmt>
-            
-            </appInfo>
-            <projectDesc>
-                This file acts as an exploration of music curation for the 2019 class at University of Glagsow: Music Curation and Analytics.
-            </projectDesc>
-            <samplingDecl>
-                <p>Encoding contains 12 measures that were the best suited for this project.</p>
-            </samplingDecl>
-        </encodingDesc>
-        <workList>
-            <work>
-                <key>
-                    F major
-                </key>
-                <meter>
-                    4/4
-                </meter>
-                <tempo>
-                    Moderate disco beat
-                </tempo>
-                <creation>
-                    File created on October 29, 2019.
-                </creation>     
+            </pubStmt>    
         </fileDesc>
            
         <encodingDesc xml:id="encodingdesc-0000000437782769">

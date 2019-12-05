@@ -2,14 +2,35 @@
 layout: default
 ---
 
-
+<link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">
   <h1> Week 5: Standards in Curation</h1>
 	<p> This week, I have included metadata into my original MEI file that helps to indentify and describe my encoded document. I created a schema based on this data. I have included a screenshot of the code below:
-
+		
   </p>
-<img src="https://github.com/kharvey99/MCA-2019/blob/master/Week5/MEIheadings.png?raw=true">
-<p> </p>
-<img src="https://github.com/kharvey99/MCA-2019/blob/master/Week5/week5.png?raw=true">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+	<div class="swiper-slide"><img src="https://github.com/kharvey99/MCA-2019/blob/master/Week5/MEIheadings.png?raw=true"></div>
+	<div class="swiper-slide"><img src="https://github.com/kharvey99/MCA-2019/blob/master/Week5/week5.png?raw=true"></div>
+  </div>
+    <div class="swiper-pagination"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+</div>
+<script src="https://unpkg.com/swiper/js/swiper.js"></script>
+<script>
+  var mySwiper = new Swiper ('.swiper-container', {
+    direction: 'horizontal',
+    loop: true,
+    pagination: {
+      el: '.swiper-pagination',
+    },
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+  })
+</script>
+
 <tr> 
 		<td> <a href="https://kharvey99.github.io/MCA-2019/Week4/week4.html"> << WEEK 4: Computational analytics of notated music</a> </td>
 		
